@@ -1,0 +1,1 @@
+﻿INSERT INTO location VALUES('Nevada', 'Las Vegas', '1298E 450N');
